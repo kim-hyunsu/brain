@@ -14,20 +14,22 @@ class GlutamicAcid(Neurotransmitter):
 class Glycine(Neurotransmitter):
     pass
 
-# Gamma-Aminobutyric acid
-
 
 class GABA(Neurotransmitter):
+    """
+    Gamma-Aminobutyric acid
+    """
     pass
 
 
 class Cholecystokinin(Neurotransmitter):
     pass
 
-# Or noradrenaline
-
 
 class Norepinephrine(Neurotransmitter):
+    """
+    Or noradrenaline
+    """
     pass
 
 
